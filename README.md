@@ -1,5 +1,5 @@
 # ☕ Coffee Sales Dashboard | Power BI
-![Dashboard Preview](coffee dashboard.PNG)
+![Coffee Sales Dashboard](coffee-dashboard.png)
 ## 📌 Project Overview
 This project presents an interactive **Coffee Sales Dashboard** built using **Microsoft Power BI**. The dashboard analyzes coffee sales performance across different products, years, months, and time periods to help identify sales trends and customer preferences.
 The dashboard provides business insights into total sales, total orders, best-selling coffee types, monthly sales trends, and sales distribution across different times of the day.
